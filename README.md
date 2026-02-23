@@ -20,9 +20,10 @@ Legacy:
 
 ## [ INSTALLATION ]
 - Install ScriptHookV and ScriptHookVDotNet v3
-- Place PhoneHudFix.dll into your GTA V/scripts/ folder
+- Place PhoneHudFix.dll & PhoneHudFix.ini into your GTA V/scripts/ folder
 - (Optional) Edit PhoneHudFix.ini to customize behavior
 - Enjoy
+
 
 ## [ Incompatibilities ]
 - None. Works great with iFruitAddon2
