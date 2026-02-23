@@ -26,25 +26,13 @@ Legacy:
 - (Optional) Edit PhoneHudFix.ini to customize behavior
 - Enjoy
 
-[ CHANGELOG ]
-v1.0
--Initial Release
-
 [ Incompatibilities ]
 - None. Works great with iFruitAddon2
 
-[ Note ]
-There's more I plan on accomplishing with this mod, so expect future updates.
+[ Credits & Acknowledgements ]
+- Alexander Blade - for ScriptHookV
+- crosire - for ScriptHookVDotNet
+- Chiheb-Bacha - for ScriptHookVDotNet Enhanced
 
-This mod was primarily created for my personal use, I'm releasing to the public because I understand others might've had the same frustration I've had.
+Without their foundational tools, this mod would not be possible.
 
-I will be releasing source code when I am finished with this mod.
-
-Find me on Nexus (Nochala)
-
-[ License ]
-This mod is provided for private use only.
-
-Redistribution, reuploading, modification for release, or inclusion in other projects or mod packs is strictly prohibited unless explicit permission is granted by the author (Nochala).
-
-No permission is granted for content re-use without prior written approval.
