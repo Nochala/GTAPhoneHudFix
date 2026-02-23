@@ -1,7 +1,7 @@
 # GTAPhoneHudFix
 Phone Hud Fix is a lightweight .Net utility script that fixes the annoying GTA V phone UI desync bug where hud elements like contact pictures, camera control text, UI overlays, and scaleform layers randomly disappear. This script automatically refreshes the phone scripts and UI assets to restore missing elements.
 
-[ FEATURES ]
+## [ FEATURES ]
 - Automatic repair runs once on startup to immediately correct existing UI issues.
 - Configurable manual fix command (fixphonehud) for instant on-demand repair.
 - Optional periodic background repair at configurable intervals
@@ -10,26 +10,26 @@ Phone Hud Fix is a lightweight .Net utility script that fixes the annoying GTA V
 - Lightweight and performance-friendly (runs only when needed)
 - Fully configurable via .ini
 
-[ BUGS ]
+## [ BUGS ]
 - No known bugs. If you encounter an issue please report them so they can get investigated.
 
-[ REQUIREMENTS ]
+## [ REQUIREMENTS ]
 - Latest ScriptHookV
 Enhanced:
 - Latest ScriptHookVDotNet v3 Enhanced
 Legacy:
 - Latest ScriptHookVDotNet v3 Nightly
 
-[ INSTALLATION ]
+## [ INSTALLATION ]
 - Install ScriptHookV and ScriptHookVDotNet v3
 - Place PhoneHudFix.dll into your GTA V/scripts/ folder
 - (Optional) Edit PhoneHudFix.ini to customize behavior
 - Enjoy
 
-[ Incompatibilities ]
+## [ Incompatibilities ]
 - None. Works great with iFruitAddon2
 
-[ Credits & Acknowledgements ]
+## [ Credits & Acknowledgements ]
 - Alexander Blade - for ScriptHookV
 - crosire - for ScriptHookVDotNet
 - Chiheb-Bacha - for ScriptHookVDotNet Enhanced
