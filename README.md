@@ -12,11 +12,14 @@ Phone Hud Fix is a lightweight .Net utility script that fixes the annoying GTA V
 
 
 ## [ REQUIREMENTS ]
-- Latest ScriptHookV
+- [Latest ScriptHookV](https://www.dev-c.com/gtav/scripthookv/)
+
 Enhanced:
-- Latest ScriptHookVDotNet v3 Enhanced
+- [Latest ScriptHookVDotNet v3 Enhanced](https://www.gta5-mods.com/tools/script-hook-v-net-enhanced)
+  
 Legacy:
-- Latest ScriptHookVDotNet v3 Nightly
+- [Latest ScriptHookVDotNet v3 Nightly](https://www.gta5-mods.com/tools/scripthookv-net)
+  
 
 ## [ INSTALLATION ]
 - Install ScriptHookV and ScriptHookVDotNet v3
