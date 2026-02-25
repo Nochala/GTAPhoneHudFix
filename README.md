@@ -38,3 +38,9 @@ Legacy:
 
 Without their foundational tools, this mod would not be possible.
 
+### [ Mod Mirrors ]
+[GTA5-Mods](https://www.gta5-mods.com/scripts/phone-hud-fix#description_tab)
+
+[NexusMods Enhanced Page](https://www.nexusmods.com/gta5enhanced/mods/422)
+
+[NexusMods Legacy Page](https://www.nexusmods.com/gta5/mods/1643)
