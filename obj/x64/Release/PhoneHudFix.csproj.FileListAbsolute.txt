@@ -2,5 +2,5 @@ D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\bin\x64\Release\PhoneHudFix.dll
 D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\bin\x64\Release\ScriptHookVDotNet3.dll
 D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\obj\x64\Release\PhoneHudFix.csproj.AssemblyReference.cache
 D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\obj\x64\Release\PhoneHudFix.csproj.CoreCompileInputs.cache
-D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\obj\x64\Release\PhoneHudFix.csproj.CopyComplete
 D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\obj\x64\Release\PhoneHudFix.dll
+D:\VirtualStudioProjects\PhoneHudFix\PhoneHudFix\obj\x64\Release\PhoneHud.08F0000A.Up2Date
